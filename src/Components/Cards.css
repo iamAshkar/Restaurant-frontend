@@ -1,0 +1,6 @@
+.no-hover:hover {
+    background-color: initial !important;
+    color: initial !important;
+    border-color: initial !important;
+}
+
